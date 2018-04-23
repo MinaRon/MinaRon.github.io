@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+* {
+	margin:0;
+	padding:0:;
+}
+
+body {
+	background-image: url(https://img00.deviantart.net/8ec9/i/2010/052/9/c/domo_ness_by_expl0sivo.jpg);
+	overflow-x: hidden;
+}
+
+#container {
+	width:80vw;
+	margin: 0 auto;
+	background-color: blue;
+}
+
+ul {
+	background-color: green;
+	width:96%;
+	height:60px;
+}
+
+ul li {
+	float:left;
+	padding-left: 60px;
+	list-style-type: none;
+	line-height: 60px;
+}
+
+ul li a {
+	text-decoration: none;
+	color:black;
+	font-family: 'Amatic SC'
+}
+
+ul li a:hover {
+	color:white;
+	font-weight: bold;
+}
+
+h1 {
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+	border: 4px dashed #00BFBD;
+	width:400px;
+	padding:30px;
+	margin: 20px auto; 
+}
+
+#sketch {
+	width:100%;
+	height:50vh;
+	border: none;
+}
+
+div {
+	background-color: teal;
+	width:100%;
+	height:1600px;
+	text-align: center;
+	margin:0 auto;
+	font-family: 'Amatic SC'
+}
+
+div img {
+	width:1000px;
+}
