@@ -4,7 +4,7 @@ function setup() {
 
 // create a grid of circles that randomly changes colors
 function draw() {
-  background(0);
+  background(255);
   strokeWeight(5);
   stroke(0,0,200);
 
