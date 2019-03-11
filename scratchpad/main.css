@@ -1,3 +1,47 @@
+body {
+  max-width: 800px;
+  margin: 50px auto 200px auto;
+  color: #B25454;
+}
+
 h1 {
-  color: green;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+button {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.main-content {
+  background-color: #89ECDA;
+  padding: 20px;
+  box-shadow: 10px 10px 30px 5px #000000;
+}
+
+.heading {
+  padding: 60px;
+  margin: 40px;
+  border: 2px solid black;
+  background-color: purple;
+  text-align: center;
+  box-shadow: 10px 10px 30px 5px #000000;
+}
+
+.portfolio-item {
+  margin: 60px;
+  padding: 60px;
+  border: 10px dotted yellow;
+  background-color: #AFABD2;
+  color: black;
+  box-shadow: 10px 10px 30px 5px #000000;
 }
