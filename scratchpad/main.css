@@ -16,10 +16,12 @@ h3 {
 
 p {
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 
 button {
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 
 .main-content {
