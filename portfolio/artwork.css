@@ -1,35 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Teko');
 
-body {
-  max-width: 800px;
-  margin: 50px auto 200px auto;
-  color: #B25454;
+a {
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
 }
 
 h1 {
-  color: white;
-  font-family: 'Teko', sans-serif;
-  text-align: center;
-}
 
-h2 {
-  color: white;
-  font-family: 'Teko', sans-serif;
-  text-align: center;
-}
-
-a {
-  font-family: 'Teko', sans-serif;
-  font-size: 50px
-}
-
-.main-content {
-  background-color: black;
-  padding: 20px;
-}
-
-.portfolio-item {
-  margin: 60px;
-  padding: 60px;
-  background-color: #AFABD2;
 }
