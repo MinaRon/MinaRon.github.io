@@ -1,19 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Teko');
 
-body {
-  background-color:
-}
-
 h1 {
   text-align: center;
   font-family: 'Teko', sans-serif;
-  color:
 }
 
 h2 {
   text-align: center;
   font-family: 'Teko', sans-serif;
-  color:
 }
 
 li {
@@ -26,5 +20,5 @@ li {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 10px 10px 8px #888888;
+  box-shadow: 10px 10px 8px #000000;
 }
