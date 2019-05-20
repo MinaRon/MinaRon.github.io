@@ -5,11 +5,17 @@ a {
   font-size: 30px;
 }
 
-h1 {
+p {
   font-family: 'Teko', sans-serif;
   text-align: center;
+  font-size: 50px
 }
 
 img {
   box-shadow: 10px 10px 8px #000000;
+}
+
+body {
+  background-image: url(images/glitchybackground.gif);
+  background-size: cover;
 }
